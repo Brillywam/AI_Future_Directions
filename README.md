@@ -30,6 +30,6 @@ The proposal is tailored for smallholder and rural farmers in Africa who face un
 > This document outlines the system architecture, data pipeline, AI models, and tailored features for African agricultural conditions.
 
 ## 🤝 Flow Diagram
-![Flow Diagram](image.png)
+![Flow Diagram](Image.png)
 
 ---
